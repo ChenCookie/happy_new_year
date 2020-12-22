@@ -1,0 +1,62 @@
+
+p,a,table,td,th,form,dl,dd,input, textarea, select,label,span,div,b{ margin:0; padding:0;}
+
+.url{ cursor:pointer; text-decoration:none; }
+.url:hover{ text-decoration: underline; }
+.bold{ font-weight:bold;}
+.nobold{ font-weight: normal;}
+.star{color:#f00;}
+.upper{ text-transform:uppercase;}
+.underline{text-decoration:underline;}
+.underline:hover{text-decoration:underline;}
+.d_grey{ color:#444;}
+.grey{ color:#999;}
+.red{ color:#f00;}
+.white{ color:#fff;}
+.blue{ color:#59acd7;}
+.black{ color:#000;}
+.d_green{ color:#00714F;}
+.green{ color:#22A637;}
+.orange{ color:#F47920;}
+.pink{ color:#A70532;}
+.p_right{ text-align:right;}
+.p_left{ text-align:left;}
+.p_center{ text-align:center;}
+.f_left{ float:left}
+.f_right{ float:right}
+.hide{ display:none;}
+
+.size8{ font-size:0.7em;}
+.size10{ font-size:0.8em;}
+.size11{ font-size:1em;}
+.size12{ font-size:1.1em;}
+.size14{ font-size:1.35em;}
+.size16{ font-size:1.5em;}
+.size18{font-size:1.6em;}
+.size20{font-size:1.8em;}
+.size24{font-size:2.2em;}
+.size32{font-size:3em;}
+
+.stepr{ padding-right:20px;}
+.stepr5{ padding-right:5px;}
+.stepr10{ padding-right:10px;}
+.step{ padding-left:20px;}
+.step10{ padding-left:10px;}
+.mar{ margin-left:20px;}
+.mar10{ margin-left:10px;}
+.padding3{ padding:3px;}
+.padding5{ padding:5px;}
+.padding10{ padding:10px;}
+.padding20{ padding:20px;}
+.padding55{ padding:5px 0 5px 0;}
+.lineup20{ line-height:20px;}
+.lineup30{ line-height:30px;}
+.lineup40{ line-height:40px;}
+.linecross{ text-decoration:line-through}
+.islink:hover{ text-decoration:underline}
+input, textarea, select {
+  border:1px solid #ccc;
+  padding:2px;
+
+}
+
